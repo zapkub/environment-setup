@@ -29,6 +29,9 @@ brew cask install telegram
 brew cask install slack
 
 # Utilities
+brew install unrar
+brew install p7zip
+brew install ecm
 brew cask install sourcetree
 brew cask install dropbox
 brew cask install transmit
@@ -36,8 +39,14 @@ brew cask install evernote
 brew cask install parallels-desktop
 brew cask install microsoft-office
 brew cask install duet
+brew install wine --without-x11
+brew install mono
 
 # Design
 brew cask install sketch
 brew cask install adobe-photoshop-cc
 brew cask install adobe-media-encoder-cc
+
+# Entertain
+brew cask install openemu
+brew cask install xld 
