@@ -31,7 +31,6 @@ brew cask install slack
 # Utilities
 brew install unrar
 brew install p7zip
-brew install ecm
 brew cask install sourcetree
 brew cask install dropbox
 brew cask install transmit
@@ -44,9 +43,8 @@ brew install mono
 
 # Design
 brew cask install sketch
-brew cask install adobe-photoshop-cc
-brew cask install adobe-media-encoder-cc
 
 # Entertain
 brew cask install openemu
 brew cask install xld 
+brew install ecm
